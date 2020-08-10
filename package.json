@@ -1,0 +1,11 @@
+{
+  "name": "arvelie",
+  "version": "0.0.0",
+  "bin": {
+    "arvelie": "index.js"
+  },
+  "description": "Print the current time in the Arvelie format.",
+  "main": "index.js",
+  "author": "Kira Oakley <kira@eight45.net>",
+  "license": "ISC"
+}
