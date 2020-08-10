@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const spawn = require('child_process').spawnSync
 
 const yearday = parseInt(spawn('date', ['+"%j"'])
